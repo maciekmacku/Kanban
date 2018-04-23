@@ -80,7 +80,7 @@ Card.prototype = {  // delete method
             removeCard: function () {
     		this.$element.remove();
             }
-        }
+}
 
 var board = {   //board object
     name: 'Kanban Board',
